@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  font-family: "Century Gothic";
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 0 40px;
+  cursor: pointer;
+}
+
+nav ul {
+  text-align: right;
+}
+
+nav {
+  margin-bottom: 10%;
+}
+
+.container .jumbotron {
+  background-color: rgb(71, 124, 107);
+  color: aliceblue;
+}
+
+.container .col-sm-4 {
+  text-align: center;
+}
